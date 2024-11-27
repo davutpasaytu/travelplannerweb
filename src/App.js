@@ -19,6 +19,7 @@ function App() {
         <Route path="/saved" element={<SavedPage />} />
         <Route path="/profile" element={<ProfilePage />} />
         <Route path="/cat" element={<CatPage />} />
+        <Route path="/cat" element={<Ytage />} />
       </Routes>
     </Router>
   );
